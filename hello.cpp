@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-cout<<"Helo world";
+cout<<"Hello world";
 }
